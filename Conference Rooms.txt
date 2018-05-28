@@ -1,0 +1,16 @@
+Conference rooms
+
+CR-MX0A Mayan(10) SRS <RS46398@honeywell.com>; 
+CR-MX0A Aztec(10) SRS <RS46396@honeywell.com>; 
+CR-MX0A Los Cabos (10) <CR-MX0ALosCabos@Honeywell.com>; 
+CR-MX0A Tarasca (12) SRS <RS43283@Honeywell.com>
+CR-MX0A Olmeca (24) SRS <RS43282@Honeywell.com>; 
+CR-MX0A Vallarta (16) SRS <RS43281@Honeywell.com>
+CR-MX0A Otomi (5) <CR-MX0AOtomi@Honeywell.com>; 
+
+additional nearby and small are:
+
+Pame
+Otomi
+Huastec
+Nahua
